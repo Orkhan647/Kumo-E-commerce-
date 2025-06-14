@@ -1,0 +1,29 @@
+@font-face {
+    font-family:thin100 ;
+    src: url(./Assets/Fonts/Jost-Thin.ttf);
+}
+@font-face {
+    font-family:extra-light200 ;
+    src: url(./Assets/Fonts/Jost-ExtraLight.ttf);
+}
+@font-face {
+    font-family:light300 ;
+    src: url(./Assets/Fonts/Jost-Light.ttf);
+}
+@font-face {
+    font-family:regular400 ;
+    src: url(./Assets/Fonts/Jost-Regular.ttf);
+}
+@font-face {
+    font-family:medium500 ;
+    src: url(./Assets/Fonts/Jost-Medium.ttf);
+}
+@font-face {
+    font-family:semi-bold600 ;
+    src: url(./Assets/Fonts/Jost-SemiBold.ttf);
+}
+
+@font-face {
+    font-family:bold700 ;
+    src: url(./Assets/Fonts/Jost-Bold.ttf);
+}
