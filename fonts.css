@@ -27,3 +27,8 @@
     font-family:bold700 ;
     src: url(./Assets/Fonts/Jost-Bold.ttf);
 }
+@font-face {
+    font-family: jost;
+    src: url(./Assets/Fonts/Jost-Italic-VariableFont_wght.ttf);
+    src: url(./Assets/Fonts/Jost-VariableFont_wght.ttf);
+}
